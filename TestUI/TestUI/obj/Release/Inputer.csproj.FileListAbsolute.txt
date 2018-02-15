@@ -1,0 +1,10 @@
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Release\TestUI.exe.config
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Release\TestUI.exe
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Release\TestUI.pdb
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Release\WebDriver.dll
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Release\WebDriver.Support.dll
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Release\WebDriver.xml
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Release\WebDriver.Support.xml
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\obj\Release\Inputer.csprojResolveAssemblyReference.cache
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\obj\Release\TestUI.exe
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\obj\Release\TestUI.pdb

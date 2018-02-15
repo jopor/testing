@@ -1,0 +1,10 @@
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Debug\TestUI.exe.config
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Debug\TestUI.exe
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Debug\TestUI.pdb
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Debug\WebDriver.dll
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Debug\WebDriver.Support.dll
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Debug\WebDriver.xml
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\bin\Debug\WebDriver.Support.xml
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\obj\Debug\TestUI.exe
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\obj\Debug\TestUI.pdb
+C:\Users\Asia\Desktop\Test UI\TestUI\TestUI\obj\Debug\Name Selector.csprojResolveAssemblyReference.cache
